@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Siying Liu 👋</h1>
 
 <p align="center">
-  Data analyst in New York using statistics, code, and clear visuals to turn complex data into decisions people can act on.
+  Master student in Quantitative Method of Social Science at Columbia University with experience in data science and statistics. 
 </p>
 
 <p align="center">
